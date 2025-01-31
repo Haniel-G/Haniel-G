@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Haniel</h1>
+<h1 align="center">Hi 👋, I'm Haniel Gomes</h1>
 <h3 align="center">Data analysis enthusiast (business, social, economic, and public safety) and physics teacher from Brazil</h3>
 
 - 🌱 I’m currently learning **Python, Julia, Docker, MySQL and ML**

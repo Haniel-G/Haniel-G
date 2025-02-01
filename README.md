@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [o.corvino](https://www.instagram.com/o.corvino?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 📄 Know about my experiences [Data analysis and dashboard reporting construction](Data analysis and dashboard reporting construction)
+- 📄 Know about my experiences (Data analysis and dashboard reporting construction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

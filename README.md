@@ -2,11 +2,16 @@
 <h1 align="center">Hi 👋, I'm Haniel Gomes</h1>
 <h3 align="center">Data analysis enthusiast (business, social, economic, and public safety) and physics teacher from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, Julia, Docker, MySQL and ML**
+- 🌱 I’m currently learning **Python, Julia, Docker, SQL and ML**
 
 - 👯 I’m looking to collaborate on [o.corvino](https://www.instagram.com/o.corvino?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 - 📄 Know about my experiences (Data analysis and dashboard reporting construction)
+
+## Data Sciense Portfolio 💡
+- [Click here to go to the portfolio (PT)](https://github.com/Haniel-G/Portfolio-Ciencia-de-Dados/blob/main/README.md)
+- [Click here to go to the portfolio (EN)](https://github.com/Haniel-G/Portfolio-DataScience)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

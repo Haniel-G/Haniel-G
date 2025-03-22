@@ -12,6 +12,8 @@
 - [Click here to go to the portfolio (PT)](https://github.com/Haniel-G/Portfolio-Ciencia-de-Dados/blob/main/README.md)
 - [Click here to go to the portfolio (EN)](https://github.com/Haniel-G/Portfolio-DataScience)
 
+![Minha Imagem](https://raw.githubusercontent.com/Haniel-G/Portfolio-DataScience/main/Imagens/Capa_do_Portfólio.png)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

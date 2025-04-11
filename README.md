@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences (Data analysis and dashboard reporting construction)
 
-## Data Sciense Portfolio 💡
+## Data Science Portfolio 💡
 - [Click here to go to the portfolio (PT)](https://github.com/Haniel-G/Portfolio-Ciencia-de-Dados/blob/main/README.md)
 - [Click here to go to the portfolio (EN)](https://github.com/Haniel-G/Portfolio-DataScience)
 
